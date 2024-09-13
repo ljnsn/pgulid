@@ -1,0 +1,5 @@
+# pgulid extension
+comment = 'Extension for generate_ulid function that generates ulids'
+default_version = '1.0'
+module_pathname = '$libdir/pgulid'
+relocatable = true
